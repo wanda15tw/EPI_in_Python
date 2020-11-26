@@ -6,12 +6,12 @@ Solutions to the book, Elements of Programming Interviews in Python
 * [x] 5.1, 5.6
 * [x] 6.1
 * [x] 7.1
-* [ ] 8.1
-* [ ] 9.1
-* [ ] 10.1
-* [ ] 11.1
-* [ ] 12.2
-* [ ] 13.1
+* [x] 8.1
+* [x] 9.1
+* [x] 10.1
+* [x] 11.1
+* [x] 12.2
+* [x] 13.1
 * [ ] 14.1
 * [ ] 15.1
 * [ ] 16.1
